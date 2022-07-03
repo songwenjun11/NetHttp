@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.netmodel">
+    <!-- 获取用户的手机是否联网的信息 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+</manifest>

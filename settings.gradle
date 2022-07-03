@@ -1,0 +1,3 @@
+rootProject.name = "NetworkFromMvvm"
+include ':app'
+include ':NetModel'
